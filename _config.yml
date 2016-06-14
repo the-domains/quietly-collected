@@ -1,0 +1,28 @@
+name: Quietly Collected
+favicon: null
+layout_spectrum: 0.9033324730116874
+typography_spectrum: 0.020104556577280164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5762610647361726
+  lightness: 0.7600135777611285
+  saturation: 0.1346057376358658
+  rhythmicContrast: 0.007049159379675984
+purpose: []
